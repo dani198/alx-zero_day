@@ -1,0 +1,25 @@
+git pull
+
+git add .
+
+git commit -m 'My first commit' 
+
+git push 
+
+git commit -m ":Starting to code today, so cool"
+
+git push --set-upstream origin update_script
+
+git commit -m "How to be up to date in git"
+
+
+
+https://alx-intranet.hbtn.io/corrections/2382673/correct
+
+git commit -m "My personal work"
+
+
+
+git commit -m "My personal work"
+
+git commit -m "Hot fix"
